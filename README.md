@@ -2,6 +2,7 @@
 A Day/Work Schedule
 
 A Daily Planner, laid out in color-coded blocks with user-friendly interface to add events with dates and times.
+See Issue #1 for User story and Acceptance Criteria 
 
 Web link: 
 
